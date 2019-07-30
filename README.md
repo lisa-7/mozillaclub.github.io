@@ -1,2 +1,2 @@
-# kenilvasani.github.io
+# mozilla.github.io
 website for Mozialla campus Club
