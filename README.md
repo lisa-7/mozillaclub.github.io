@@ -1,2 +1,2 @@
 # mozillaclub.github.io
-website for Mozialla campus Club
+website for Mozilla campus Club
